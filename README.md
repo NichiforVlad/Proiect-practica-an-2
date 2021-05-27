@@ -35,7 +35,7 @@ Clientul va avea acces la comenzile sale, continutul acestora, posibilitatea de 
 
 ![](imagini/p2_panou_client.PNG)
 
-#### Vizualizare form pdf generat
+#### Vizualizare pdf generat
 
 ![](imagini/p2_pdf_generat.PNG)
 
